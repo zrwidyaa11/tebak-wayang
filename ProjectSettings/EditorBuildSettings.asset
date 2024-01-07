@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Editor/Scenes/SampleScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Editor/Scenes/tampilan1.unity
+    guid: b6cc23f76b11e7143b5507e0e4ad4f18
+  - enabled: 1
+    path: Assets/Editor/Scenes/tampilan2.unity
+    guid: cb4dbfd8351217e45a732c41feb5e615
+  - enabled: 1
+    path: Assets/Editor/Scenes/soal1r.unity
+    guid: 419e97db7b749ad4893219285ee48ae2
+  - enabled: 1
+    path: Assets/Editor/Scenes/pla.unity
+    guid: cc16382787ddcaf40992ddfa32d97f68
+  - enabled: 1
+    path: Assets/Editor/Scenes/soal2r.unity
+    guid: 698b07fd2cfa62142a92668cf942ffbe
+  - enabled: 1
+    path: Assets/Editor/Scenes/tampilan3.unity
+    guid: 224e3958fdf93e44bacb9258302f318a
+  - enabled: 1
+    path: Assets/Editor/Scenes/soal1m.unity
+    guid: 4c1ccf79cd205c9498244c4f99af3c34
+  - enabled: 1
+    path: Assets/Editor/Scenes/soal2m.unity
+    guid: 6c3f164883fe9b943938ccde87d68caa
+  - enabled: 1
+    path: Assets/Editor/Scenes/menang.unity
+    guid: 5cd61b076571dc04ea8f5cd02c1333db
+  - enabled: 1
+    path: Assets/Editor/Scenes/tampilan4.unity
+    guid: 84e09a2a7255e7f4c8fd81cfb982a570
+  - enabled: 1
+    path: Assets/Editor/Scenes/tampilan5.unity
+    guid: d549f915009ac5441bc896472c562b05
+  - enabled: 1
+    path: Assets/Editor/Scenes/tampilan6.unity
+    guid: 62ca9fd23f4058c4aa685078a27b00a3
+  - enabled: 1
+    path: Assets/Editor/Scenes/level1m.unity
+    guid: 611c8948283f8b14fbffa0df6a49084b
+  - enabled: 1
+    path: Assets/Editor/Scenes/levelm.unity
+    guid: 38349b34572f2854ebda176e923df21a
+  - enabled: 1
+    path: Assets/Editor/Scenes/level2m.unity
+    guid: eb2fab6b438660e48a3543049e425d7d
+  - enabled: 1
+    path: Assets/Editor/Scenes/kategori.unity
+    guid: 9d14001937e0fc44a80585ffd350ed4a
+  - enabled: 1
+    path: Assets/Editor/Scenes/petunjuk.unity
+    guid: 726cc0046ecd18d45af62a9b69d8f475
+  - enabled: 1
+    path: Assets/Editor/Scenes/llevel2r.unity
+    guid: cfc70387a8c29b64cbbf9ee1d8b742a2
+  - enabled: 1
+    path: Assets/Editor/Scenes/levelr.unity
+    guid: c40825dbdd0c24e42969c95b18113e88
+  - enabled: 1
+    path: Assets/Editor/Scenes/llevel1r.unity
+    guid: c2a7316f2845fdd4fae25ba8dc0628f4
+  - enabled: 1
+    path: Assets/Editor/Scenes/menu.unity
+    guid: c77693ae040a5d844b5fe72c77a1cd02
+  - enabled: 1
+    path: Assets/Editor/Scenes/settingmusik.unity
+    guid: 998fb20997f11c244989a13e4e2e57d5
+  - enabled: 1
+    path: Assets/Editor/Scenes/settingnon.unity
+    guid: 9e3f9b39efbf5014f8c6caf04ceaa38b
+  - enabled: 1
+    path: Assets/Editor/Scenes/petunjuk2.unity
+    guid: 61906aca05188634ea9ad3cceee2180d
+  m_configObjects: {}
